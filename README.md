@@ -16,4 +16,4 @@
 
 📌 **Projet phare** : [QCM Corrector]((https://github.com/lina-jorio/qcm-scanner-api)), correction automatique de QCM par IA (OpenCV, EasyOCR, CNN, FastAPI)
 
-📫 [LinkedIn](https://linkedin.com/in/lina-jorio-198756298) · [Email](mailto:joriolina@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/lina-jorio-198756298) · [Email](mailto:joriolina@gmail.com) 
