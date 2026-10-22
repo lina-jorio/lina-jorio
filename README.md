@@ -14,6 +14,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
-📌 **Projet phare** : [QCM Corrector](LIEN_DU_DEPOT), correction automatique de QCM par IA (OpenCV, EasyOCR, CNN, FastAPI)
+📌 **Projet phare** : [QCM Corrector]((https://github.com/lina-jorio/qcm-scanner-api)), correction automatique de QCM par IA (OpenCV, EasyOCR, CNN, FastAPI)
 
 📫 [LinkedIn](https://linkedin.com/in/lina-jorio-198756298) · [Email](mailto:joriolina@gmail.com)
